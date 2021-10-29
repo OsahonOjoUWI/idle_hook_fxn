@@ -13,7 +13,7 @@ src/packet.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-isa.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-matmap.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_gdbstub/private_include/esp_gdbstub_common.h:
 
@@ -41,5 +41,5 @@ src/packet.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_gdbstub/src/packet.c:

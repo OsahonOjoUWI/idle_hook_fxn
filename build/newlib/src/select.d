@@ -1,7 +1,7 @@
 src/select.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/src/select.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/select.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/vfs/include/esp_vfs.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -39,7 +39,7 @@ src/select.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/newlib/platform_include/sys/select.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/vfs/include/esp_vfs.h:
 

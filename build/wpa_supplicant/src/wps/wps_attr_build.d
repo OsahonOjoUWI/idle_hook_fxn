@@ -2,7 +2,7 @@ src/wps/wps_attr_build.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/wpa_supplicant/src/wps/wps_attr_build.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/wpa_supplicant/src/utils/includes.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/wpa_supplicant/port/include/supplicant_opt.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -44,7 +44,7 @@ src/wps/wps_attr_build.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/wpa_supplicant/port/include/supplicant_opt.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

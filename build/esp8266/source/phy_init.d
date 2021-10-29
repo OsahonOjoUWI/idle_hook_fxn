@@ -2,7 +2,7 @@ source/phy_init.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/source/phy_init.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/rom/uart.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_types.h \
@@ -33,7 +33,7 @@ source/phy_init.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h:
 

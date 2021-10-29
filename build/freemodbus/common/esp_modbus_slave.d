@@ -1,7 +1,7 @@
 common/esp_modbus_slave.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freemodbus/common/esp_modbus_slave.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freemodbus/common/mbc_slave.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -53,7 +53,7 @@ common/esp_modbus_slave.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/freemodbus/common/mbc_slave.h:
 

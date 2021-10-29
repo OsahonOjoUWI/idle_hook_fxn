@@ -4,7 +4,7 @@ src/spi_flash_raw.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/spi_flash/include/priv/esp_spi_flash_raw.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/rom_functions.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h \
@@ -19,7 +19,7 @@ src/spi_flash_raw.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/rom_functions.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 

@@ -1,7 +1,7 @@
 mbedtls/library/asn1write.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/library/asn1write.c \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/mbedtls/esp_config.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/config.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/esp_mem.h \
@@ -15,7 +15,7 @@ mbedtls/library/asn1write.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/mbedtls/mbedtls/include/mbedtls/config.h:
 

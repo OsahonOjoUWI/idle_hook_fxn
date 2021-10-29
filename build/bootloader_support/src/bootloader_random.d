@@ -1,6 +1,6 @@
 src/bootloader_random.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_random.c \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_random.c:

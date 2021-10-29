@@ -6,7 +6,7 @@ port/randombytes_esp8266.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/libsodium/port/randombytes_default.h:
@@ -21,7 +21,7 @@ port/randombytes_esp8266.o: \
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h:
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h:
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/libsodium/port/randombytes_esp8266.c:

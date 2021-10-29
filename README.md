@@ -3,7 +3,8 @@
  This code allows two tasks to share a GPIO pin using a mutex.
  This code also uses round-robin scheduling where each task has the same priority.
  This code also uses the IDLE "hook" function to put the processor to sleep
- for some time when the system is not going to be "in-use."
+ for some time when the system is not going to be "in-use,"
+ that is, when the idle task is running.
 
 ## Important Files
 

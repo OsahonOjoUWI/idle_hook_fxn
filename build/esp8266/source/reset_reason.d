@@ -1,6 +1,6 @@
 source/reset_reason.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/source/reset_reason.c \
- /home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h \
+ /home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_idf_version.h \
@@ -17,7 +17,7 @@ source/reset_reason.o: \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/heap/include/esp_heap_caps.h \
  /opt/esp_sdk/ESP8266_RTOS_SDK/components/heap/port/esp8266/include/esp_heap_config.h
 
-/home/osahon/esp/shared_gpio_pin_roundrobin/build/include/sdkconfig.h:
+/home/osahon/esp/idle_hook_fxn/build/include/sdkconfig.h:
 
 /opt/esp_sdk/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h:
 
